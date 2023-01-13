@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @banelemncube, I am 24 years old.
+- 👋 Hi, I’m @banelemncube, I am 25 years old.
 - 👀 I’m interested in learning all about the tech industry.
 - 🌱 I’m currently learning software engineering with ALX
 - 💞️ I’m looking to collaborate on new projects
